@@ -9,7 +9,7 @@
 using std::cout;
 using std::endl;
 
-double f (const double& x){
+double f(const double& x){
     return (pow(x ,2) * sin(x));
 }
 
